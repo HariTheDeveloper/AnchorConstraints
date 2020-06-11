@@ -14,6 +14,7 @@
 		7EEB078D2492690B001FE314 /* AnchorConstraints.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 7EEB078B2492690B001FE314 /* AnchorConstraints.xcdatamodeld */; };
 		7EEB078F2492690E001FE314 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7EEB078E2492690E001FE314 /* Assets.xcassets */; };
 		7EEB07922492690E001FE314 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7EEB07902492690E001FE314 /* LaunchScreen.storyboard */; };
+		7EEB079A24926C3C001FE314 /* Anchors.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7EEB079924926C3C001FE314 /* Anchors.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		7EEB078E2492690E001FE314 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7EEB07912492690E001FE314 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		7EEB07932492690E001FE314 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7EEB079924926C3C001FE314 /* Anchors.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Anchors.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				7EEB07822492690B001FE314 /* AppDelegate.swift */,
 				7EEB07842492690B001FE314 /* SceneDelegate.swift */,
 				7EEB07862492690B001FE314 /* ViewController.swift */,
+				7EEB079924926C3C001FE314 /* Anchors.swift */,
 				7EEB07882492690B001FE314 /* Main.storyboard */,
 				7EEB078E2492690E001FE314 /* Assets.xcassets */,
 				7EEB07902492690E001FE314 /* LaunchScreen.storyboard */,
@@ -143,6 +146,7 @@
 			files = (
 				7EEB07872492690B001FE314 /* ViewController.swift in Sources */,
 				7EEB078D2492690B001FE314 /* AnchorConstraints.xcdatamodeld in Sources */,
+				7EEB079A24926C3C001FE314 /* Anchors.swift in Sources */,
 				7EEB07832492690B001FE314 /* AppDelegate.swift in Sources */,
 				7EEB07852492690B001FE314 /* SceneDelegate.swift in Sources */,
 			);
